@@ -275,13 +275,6 @@ This toolkit is intended for **authorized security testing and educational purpo
 **The authors are not responsible for misuse of this tool.**
 
 ---
-
-## 📚 Part of Ethical Hacking Bootcamp
-
-This toolkit is developed as part of the **Complete Ethical Hacking Bootcamp** course materials.
-
-**Module:** Reconnaissance & Information Gathering - Part 02
-
 ---
 
 ## 🤝 Contributing
