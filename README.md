@@ -1,6 +1,10 @@
 # 📧 Email Scraper Pro v3.0
 
 <p align="center">
+  <img src="banner.png" alt="Email Scraper Pro Banner" width="800">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Platform-Kali%20Linux-red?style=for-the-badge&logo=linux" alt="Platform">
